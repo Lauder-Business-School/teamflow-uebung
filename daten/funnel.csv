@@ -1,0 +1,5 @@
+stufe,ereignis,personen,kohorte,zeitfenster_tage
+1,workshop_viewed,1000,Testkohorte A,7
+2,booking_started,300,Testkohorte A,7
+3,booking_confirmed,210,Testkohorte A,7
+4,workshop_attended,168,Testkohorte A,7

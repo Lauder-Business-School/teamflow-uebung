@@ -1,0 +1,5 @@
+stufe,ereignis,anzahl
+1,workshop_viewed,1000
+2,booking_started,420
+3,booking_confirmed,210
+4,workshop_attended,168
