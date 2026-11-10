@@ -14,9 +14,20 @@ Fiktiver Unterrichtsfall: Anmeldung zu Reparaturworkshops. Alle Namen und Daten 
 | Datei | Wofür |
 |---|---|
 | `produktkontext.md` | Worum es bei TeamFlow geht |
-| `geschaeftsregeln.md` | Verbindliche Buchungsregeln mit Regel-IDs |
+| `geschaeftsregeln.md` | Verbindliche Buchungsregeln BR01 bis BR08 |
 | `quellen.md`, `quellenregister.csv` | Welche Quelle wie belastbar ist |
-| `daten/` | Interviews, Meeting- und PRD-Export, Funnel- und Prioritätsdaten |
+| `daten/` | Interviews, Meeting- und PRD-Export, Funnel- und Prioritätsdaten, Kundenfeedback |
+| `teamflow/buchung.py` | Buchungslogik in Python (Übungscode, enthält absichtlich Fehler) |
+| `tests/test_buchung.py` | Tests, die nur die einfachen Fälle abdecken |
+| `tickets/` | Ein vages Ticket und ein Fehlerbericht |
+
+Tests ausführen (Python 3, keine Installation nötig):
+
+```bash
+python3 -m unittest discover -s tests -t .
+```
+
+Pull Request #1 „Stornofrist in der Bestätigung anzeigen“ ist für die Review-Übung gedacht. Nicht mergen.
 
 Regeln: keine echten Personen- oder Kundendaten eintragen. Ergebnisse kommen ins gemeinsame Dokument des Kurses, nicht nach `main`.
 
