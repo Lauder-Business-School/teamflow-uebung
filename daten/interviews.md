@@ -1,6 +1,6 @@
 # Discovery-Aussagen für E07
 
-Fiktive Kursaussagen. Die IDs bleiben bei jeder Weiterverarbeitung erhalten. Im Übungsrepository als `docs/research/interviews.md` ablegen.
+Fiktive Kursaussagen. Die IDs bleiben bei jeder Weiterverarbeitung erhalten.
 
 | Beleg | Rolle | Aussage |
 | --- | --- | --- |

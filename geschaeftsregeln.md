@@ -1,6 +1,6 @@
 # Geschäftsregeln TeamFlow (Referenzstand)
 
-Fiktiver Unterrichtsfall für Innovieren mit KI (AI x Human, DISRUPT). Im Übungsrepository als `docs/business-rules.md` ablegen. Teams dürfen andere fachliche Entscheidungen begründen, passen dann aber Regeln, Code und Prüfungen konsistent an.
+Fiktiver Unterrichtsfall für Innovieren mit KI (AI x Human, DISRUPT). Teams dürfen andere fachliche Entscheidungen begründen, passen dann aber Regeln, Code und Prüfungen konsistent an.
 
 | ID | Regel |
 | --- | --- |
